@@ -1,18 +1,64 @@
-#header1 {
-font-size: 60px;
+.btn1:hover {
+opacity:1;
 }
-#table1 {
- margin-left: auto;
- margin-right: auto;
+.btn1 {opacity:0.5;
+      background-color:cornflowerblue;
+       width:660px;
 }
-.description {
-width: 25%
- font-size: 30px;
+.text1{
+  font-size:36px;
+  text-weight:bold;
+  text-align:center;
 }
-.center {
- margin-left:auto;
- margin-right:auto;
+
+.btn2:hover {
+      opacity:1;
 }
-#subtitle {
-font-size: 40px;
+.btn2 {opacity:0.5;
+       background-color:cornflowerblue;
+       width:660px;
+}
+.text2{
+  font-size:36px;
+  text-weight:bold;
+  text-align:center;
+}
+
+.btn3:hover {opacity:1;}
+.btn3 {opacity:0.5;
+       background-color:cornflowerblue;
+       width:660px;
+}
+.text3{
+  font-size:36px;
+  text-weight:bold;
+  text-align:center;
+}
+#image1 {
+      display: block;
+      margin: auto;
+}
+#image2 {
+      display: block;
+      margin: auto;
+}
+.text {
+      font-size: 22px;
+      font-family: Arial, sans-serif;
+}
+.header1 {
+      text-align: center;
+      font-size: 26px;
+      font-weight:bold;
+}
+.header2 {
+      text-align: center;
+      font-size: 36px;
+      font-weight:bold;
+}
+.source {
+      text-size:24px;
+}
+#tableheader {
+      font-size:36px;
 }
