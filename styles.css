@@ -1,3 +1,8 @@
+.header1 {
+      text-align: center;
+      font-size: 36px;
+      font-weight:bold;
+}
 #indexheader2 {
       font-size: 26px;
       text-align: center;
@@ -52,19 +57,13 @@ opacity:1;
       margin: auto;
 }
 .text {
-      font-size: 36px;
+      font-size: 24px;
       font-family: Arial, sans-serif;
 }
 .mechanics {
       font-size: 22px;
       font-family: Arial, sans-serif;
       width: 40%
-}
-.header1 {
-      text-align: center;
-      font-size: 36px;
-      font-weight:bold;
-      font-family: Arial, sans-serif;
 }
 .header2 {
       text-align: center;
