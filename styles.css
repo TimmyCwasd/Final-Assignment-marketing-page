@@ -17,6 +17,11 @@
       text-align: center;
       font-size: 20px;
 }
+.partheader {
+      text-align: center;
+      font-size: 28px;
+      font-family: Times New Roman, serif;
+}
 .btn1:hover {
 opacity:1;
 }
