@@ -13,6 +13,10 @@
       font-size: 26px;
       font-family: Arial, sans-serif;
 }
+.btndesc {
+      text-align: center;
+      font-size: 20px;
+}
 .btn1:hover {
 opacity:1;
 }
@@ -76,7 +80,4 @@ opacity:1;
 }
 #tableheader {
       font-size:36px;
-}
-.btndesc {
-      text-align: center;
 }
