@@ -22,6 +22,9 @@
       font-size: 28px;
       font-family: Times New Roman, serif;
 }
+#complist {
+      font-size: 26;
+}
 .btn1:hover {
 opacity:1;
 }
